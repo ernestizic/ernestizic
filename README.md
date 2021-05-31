@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ernest Isaac
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning how to build React applications
+- 🌱 I’m currently building React applications
 - 📫 You can reach me via email: ieifeanyichukwu@gmail.com or on twitter @ernest_izic
 
 <!---
